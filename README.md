@@ -15,6 +15,7 @@ This project is a Human Resource Management (HRM) application designed specifica
 
 - Keep track of all job applications, including status updates and deadlines
 
+- Upload resumes
 
 
 ## Table of contents
@@ -38,6 +39,27 @@ This project is a Human Resource Management (HRM) application designed specifica
 
 ![App Screenshot](https://github.com/user-attachments/assets/a25cc952-3f2d-405e-be1e-24f476855bfe)
 
+
+  </div>
+  
+  #
+
+  #### Job info:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/7143a715-3466-4ec6-8f92-085138a6d2ee)
+
+  </div>
+  
+  #
+
+  
+  #### Apply form:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/377395aa-29ce-4645-83c2-f4995d1a4b5f)
 
   </div>
   
