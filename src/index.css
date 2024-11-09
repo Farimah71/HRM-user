@@ -1,0 +1,47 @@
+/* ++++++++++ Tailwindcss ++++++++++ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ++++++++++ Font (Roboto) ++++++++++ */
+@font-face {
+  font-family: 'inter';
+  src: url('./assets/font/Inter.ttf') format('truetype')
+}
+*,
+html {
+  font-family: inter !important;
+}
+button {
+  font-family: inter !important;
+}
+body {
+  background-color: #F2F2F2;
+}
+
+/* ++++++++++ Scrollbar Customize ++++++++++ */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background-color: #FE6601;
+}
+.no-scroll {
+  scrollbar-width: 0;
+}
+.no-scroll::-webkit-scrollbar {
+  width: 0;
+}
+.scroll-element {
+  scrollbar-width: thin !important;
+  scrollbar-color: #212f45 transparent !important;
+}
+.scroll-element::-webkit-scrollbar {
+  width: 5px;
+  background-color: transparent;
+}
+.scroll-element::-webkit-scrollbar-thumb {
+  border-radius: 9999px !important;
+  background-color: #212f45;
+}

@@ -1,0 +1,299 @@
+{
+  "login": {
+    "welcome_title": "Welcome",
+    "sub_title": "Please enter your information",
+    "dont_account_title": "Don’t have an account yet?",
+    "signup_link_title": "Sign Up",
+    "forgot_password_title": "Forgot Password",
+    "link_title": "Login"
+  },
+  "signup": {
+    "personal_info_title": "Your personal infromation",
+    "personal_info_sub_title": "Tell us more about yourself.",
+    "company_info_title": "Your company information",
+    "company_info_sub_title": "Tell us more about your business.",
+    "selection_system_title": "Your system selection",
+    "selection_system_sub_title": "Select your company projects.",
+    "have_account_title": "Already have an account?",
+    "login_link_title": "Login",
+    "preview_demo_title": "Preview you demo",
+    "total_title": "Total",
+    "link_title": "Sign Up"
+  },
+  "text": {
+    "or": "or",
+    "not_login_title": "You are not login!"
+  },
+  "error": {
+    "email_required": "Please enter your email",
+    "email_invalid": "Please enter a valid email address",
+    "center_required": "Please select center",
+    "password_required": "Please choose your password",
+    "password_invalid": "Password must contain at least 8 characters, one uppercase, one number and one special case character.",
+    "repeat_password_required": "Please choose repeat password",
+    "password_match_not": "Your password do not match",
+    "first_name_required": "Please enter your first name",
+    "last_name_required": "Please enter your last name",
+    "user_name_required": "Please enter your user name",
+    "name_required": "Please enter your name",
+    "family_required": "Please enter your family",
+    "mobileNo_required": "Please enter your phone number",
+    "mobileNo_invalid": "Please enter a valid phone number",
+    "national_code_required": "Please enter your national code",
+    "business_title_required": "Please enter your business title",
+    "business_invite_key_required": "Please enter your business invite key",
+    "payment_fail_title": "ooops! Something went wrong.",
+    "payment_fail_sub_title": "Payment failed!",
+    "payment_fail_desc": "We had trouble processing your request. To continue you will need to resubmit your request.",
+    "user_not_found": "User not found",
+    "password_is_invalid": "The password is invalid",
+    "title_required": "Please enter title",
+    "company_id_required": "Please select company",
+    "company_project_id_required": "Please choose the company project",
+    "position_group_id_required": "Please choose the position group",
+    "active_code_required": "Please enter active code"
+  },
+  "input": {
+    "login_title": {
+      "label": "Username or phone number",
+      "placeholder": "Enter your username/phone number"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "center_title": {
+      "label": "Center",
+      "placeholder": "Choose the center"
+    },
+    "password_title": {
+      "label": "Password",
+      "placeholder": "Choose your password"
+    },
+    "active_code_title": {
+      "label": "Active code",
+      "placeholder": "Enter active code"
+    },
+    "first_name_title": {
+      "label": "First name",
+      "placeholder": "Enter your first name"
+    },
+    "last_name_title": {
+      "label": "Last name",
+      "placeholder": "Enter your last name"
+    },
+    "user_name_title": {
+      "label": "User name",
+      "placeholder": "Enter your user name"
+    },
+    "repeat_password_title": {
+      "label": "Repeat password",
+      "placeholder": "Choose your repeat password"
+    },
+    "phone_number_title": {
+      "label": "Phone number",
+      "placeholder": "Enter your phone number"
+    },
+    "national_code_title": {
+      "label": "National Code",
+      "placeholder": "Enter your national code"
+    },
+    "companyTitle_title": {
+      "label": "Title",
+      "placeholder": "Enter your company title"
+    },
+    "invite_key_title": {
+      "label": "Invite Key",
+      "placeholder": "Enter your invite key"
+    },
+    "description": {
+      "label": "Description",
+      "placeholder": "Write anything"
+    },
+    "title": {
+      "label": "Title",
+      "placeholder": "Enter title"
+    },
+    "company": {
+      "label": "Company",
+      "placeholder": "Choose the company"
+    },
+    "company_project": {
+      "label": "Company project",
+      "placeholder": "Choose the company project"
+    },
+    "position_group": {
+      "label": "Position group",
+      "placeholder": "Choose the position group"
+    },
+    "position_detail": {
+      "label": "Position detail",
+      "placeholder": "Write anything"
+    },
+    "name": {
+      "label": "Name",
+      "placeholder": "Enter your name"
+    },
+    "family": {
+      "label": "Family",
+      "placeholder": "Enter your family"
+    },
+    "phone_number": {
+      "label": "Phone number",
+      "placeholder": "Enter your phone number"
+    },
+    "end_user": {
+      "label": "End user",
+      "placeholder": "Please choose endUser"
+    },
+    "selected_cv": {
+      "label": "Selected CV",
+      "placeholder": "Please choose selectedCV"
+    },
+    "pre_candidate_status": {
+      "label": "preCandidate status",
+      "placeholder": "Please choose preCandidate status"
+    },
+    "job_position": {
+      "label": "Job position",
+      "placeholder": "Enter the job title"
+    },
+    "job_industry": {
+      "label": "Job industry",
+      "placeholder": "Choose the industry"
+    },
+    "city": {
+      "label": "City",
+      "placeholder": "Choose your city"
+    },
+    "contract_format": {
+      "label": "Contract format",
+      "placeholder": "Choose the contrtact format"
+    },
+    "years_experience": {
+      "label": "Years experience",
+      "placeholder": "Choose the years"
+    },
+    "salary_range": {
+      "label": "Salary range",
+      "placeholder": "Choose the salary range"
+    },
+    "up_to_title": "up to",
+    "upload_avatar_title": "upload your avatar",
+    "upload_logo_title": "upload your logo pic"
+  },
+  "button": {
+    "submit_title": "submit",
+    "next_title": "next",
+    "is_demo_title": "ISDEMO",
+    "resubmit_title": "resubmit",
+    "back_to_cart_title": "back to cart",
+    "save_title": "Save",
+    "create_title": "Create",
+    "search_title": "Search",
+    "change_title": "Change",
+    "more_title": "More",
+    "apply_title": "Apply now",
+    "back_title": "Back"
+  },
+  "link": {
+    "terms_condition_title": "Terms & Condition",
+    "privacy_policy_title": "Privacy & Policy"
+  },
+  "language": {
+    "language_title": "Language"
+  },
+  "theme": {
+    "dark_mode_title": "Dark Mode"
+  },
+  "notification": {
+    "data_success": "Data saved successfully"
+  },
+  "navbar": {
+    "dashboard_title": "Dashboard",
+    "company_title": "Company",
+    "apply_jobs_title": "Applied jobs",
+    "job_alerts_title": "Job alerts",
+    "saved_job_title": "Saved jobs",
+    "recommended_jobs_title": "Recommended jobs",
+    "my_cv_title": "My CV",
+    "timesheet_title": "Timesheet",
+    "CV_creator_title": "CV Creator",
+    "messages_title": "Messages",
+    "project_title": "Project",
+    "company_project_title": "Company Project",
+    "company_position_title": "Company Position",
+    "offers_title": "Offers",
+    "pre_candidate_title": "Pre Candidate",
+    "referrals_title": "Referrals",
+    "documents_title": "Documents",
+    "organization_section_title": "Organization",
+    "tools_section_title": "Tools",
+    "employees_title": "Employees",
+    "calendar_title": "Calendar",
+    "settings_title": "Settings",
+    "log_out_title": "Log Out"
+  },
+  "table": {
+    "col": {
+      "no": "No.",
+      "tenant": "Tenant",
+      "title": "Title",
+      "action": "Action",
+      "description": "Description",
+      "positionDetail": "Position Detail",
+      "name": "Name",
+      "family": "Family",
+      "email": "Email",
+      "phone_number": "Phone number"
+    },
+    "result": "Result"
+  },
+  "page_title": {
+    "company": "Company",
+    "create_company": "Create company",
+    "edit_company": "Edit company",
+    "company_project": "Company Project",
+    "create_company_project": "Create company project",
+    "edit_company_project": "Edit company project",
+    "company_position": "Company position",
+    "create_company_position": "Create company position",
+    "edit_company_position": "Edit company position",
+    "pre_candidate": "PreCandidate",
+    "create_pre_candidate": "Create preCandidate",
+    "edit_pre_candidate": "Edit preCandidate",
+    "dashboard_title": "Dashboard"
+  },
+  "toast": {
+    "success": "Your information saved successfully",
+    "error": "An error occured, please try again"
+  },
+  "positions": {
+    "luna_company": "Luna company",
+    "linaux_comapny": "Linaux company",
+    "graphic_designer": "Graphic designer",
+    "frontend_developer": "Frontend developer",
+    "full_time": "FullTime",
+    "location": "Location",
+    "hours_ago": "hour ago",
+    "month": "month",
+    "employee": "Employees",
+    "format": "Format",
+    "salary": "Salary"
+  },
+  "tags": {
+    "marketing": "Marketing",
+    "antalya": "Antalya",
+    "full_time": "Full Time",
+    "experience": "6 years of experience",
+    "more_than": "More than $5000 / month"
+  },
+  "profile_menu": {
+    "my_profile": "My profile",
+    "my_projects": "My projects",
+    "my_statements": "My statements",
+    "language": "Language",
+    "account_setting": "Account setting",
+    "sign_out": "Sign out"
+  }
+}
